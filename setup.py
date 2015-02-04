@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name='sphinx-rtd-test',
+    name='sphinx_rtd_test',
     author='Daniel Chen',
     description='testing sphinx documentation with read the docs',
-    packages=['sphinx-rtd'],
+    packages=['sphinx_rtd'],
     platforms='any',
     classifiers=[
         'Programming Language :: Python',
