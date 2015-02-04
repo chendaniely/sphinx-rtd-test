@@ -1,21 +1,21 @@
-sphinx-rtd package
+sphinx_rtd package
 ==================
 
 Submodules
 ----------
 
-sphinx-rtd.mod module
+sphinx_rtd.mod module
 ---------------------
 
-.. automodule:: sphinx-rtd.mod
+.. automodule:: sphinx_rtd.mod
     :members:
     :undoc-members:
     :show-inheritance:
 
-sphinx-rtd.useful_1 module
+sphinx_rtd.useful_1 module
 --------------------------
 
-.. automodule:: sphinx-rtd.useful_1
+.. automodule:: sphinx_rtd.useful_1
     :members:
     :undoc-members:
     :show-inheritance:
@@ -24,7 +24,7 @@ sphinx-rtd.useful_1 module
 Module contents
 ---------------
 
-.. automodule:: sphinx-rtd
+.. automodule:: sphinx_rtd
     :members:
     :undoc-members:
     :show-inheritance:
