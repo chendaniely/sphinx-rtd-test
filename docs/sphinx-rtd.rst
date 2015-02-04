@@ -12,6 +12,14 @@ sphinx-rtd.mod module
     :undoc-members:
     :show-inheritance:
 
+sphinx-rtd.useful_1 module
+--------------------------
+
+.. automodule:: sphinx-rtd.useful_1
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 
 Module contents
 ---------------
