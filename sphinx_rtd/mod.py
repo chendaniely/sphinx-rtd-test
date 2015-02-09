@@ -10,3 +10,24 @@ def my_square(x):
     :rtype: float
     """
     return x ** 2
+
+def my_square_alternative_doc(x):
+    """Square a given value
+
+    Parameters
+    ----------
+    x : number
+        The number you want to square
+
+    
+    Returns
+    -------
+    x **2 : number
+        The square of the value
+
+    Examples
+    --------
+    >>> my_square_alternative_doc(2)
+    >>> 4
+    """
+    return x ** 2
